@@ -1,5 +1,5 @@
 ## WeatherApp
-#### Create the simple WeatherApp
+#### Create the simple WeatherApp using API & json data
 ### Implemented Elements
 * UILabel
 * UIButton
