@@ -1,9 +1,12 @@
 ## WeatherApp
 #### Create the simple WeatherApp
 ### Implemented Elements
-
-### Following task performed in application
-
+* UILabel
+* UIButton
+* UITextField
+* UIImageView
+* UISearchbar
+* UITableView
 ### .gif
 
 ### Screenshot
